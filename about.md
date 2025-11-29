@@ -1,13 +1,11 @@
 ---
 layout: about
 title: About
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/img/blog/photo.jpg
 description: >
   Personal website of Haojun Shi.
-hide_description: false
+hide_description: true
 ---
-
-# About
 
 Hi! I’m **Haojun Shi**. I am currently a junior at Johns Hopkins University double majoring in Computer Science and Applied Mathematics & Statistics. I am honored to get advised by Professor Tianmin Shu and Jason Eisner.
 
