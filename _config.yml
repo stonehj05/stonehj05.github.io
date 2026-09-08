@@ -42,14 +42,18 @@ logo:                  /assets/img/blog/photo.jpg
 author:
   # Used by `jekyll-feed`:
   name:                Haojun Shi
-  email:               stonehj05@gmail.com
+  email:               haojun.shi@yale.edu
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /
+    url:               /#about
+  - title:             News
+    url:               /#news
+  - title:             Publications
+    url:               /#publications
 
 # Add links to the footer.
 legal:                 []

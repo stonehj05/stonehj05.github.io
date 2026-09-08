@@ -10,6 +10,8 @@ description: >
 hide_description: true
 ---
 
+<div id="about"></div>
+
 Hi! I’m **Haojun Shi**. I am currently a junior at Johns Hopkins University double majoring in Computer Science and Applied Mathematics & Statistics. I am honored to be advised by Professor Tianmin Shu and Jason Eisner.
 
 ---

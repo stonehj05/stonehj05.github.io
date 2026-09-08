@@ -2,7 +2,7 @@
 # Must be the same as `author` in `_config.yml`.
 author1:
   name:              Haojun Shi
-  email:             stonehj05@gmail.com
+  email:             haojun.shi@yale.edu
 
   # Used at the bottom of each page and at the top of the `about` layout.
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -21,7 +21,7 @@ author1:
   # Social media icons in the sidebar.
   # Comment/uncomment to show/hide. You can also provide an absolute URL.
   social:
-    email:           stonehj05@gmail.com
+    email:           haojun.shi@yale.edu
+    google-scholar:  "https://scholar.google.com/citations?user=BN-NEn8AAAAJ&hl=en"
     github:          stonehj05
     # linkedin:        <firstname-lastname-string>
-    # google-scholar:  <id>
