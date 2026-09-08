@@ -1,20 +1,23 @@
-# Hydejack Starter Kit
+# stonehj05.github.io
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+Personal academic website of Haojun Shi, built with [Jekyll] and the
+[Hydejack] theme and deployed to GitHub Pages.
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+## Run locally
 
-## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
+```sh
+bundle install
+bundle exec jekyll serve
+```
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+Then open <http://localhost:4000/>.
 
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+## Editing
+
+- `index.html` — the landing / about page (bio, news, publications).
+- `_config.yml` — site title, description, tagline, menu, colors.
+- `_data/authors.yml` — name, photo, short bio, and sidebar social links.
+- `assets/img/blog/` — images referenced by the pages.
+
+[Jekyll]: https://jekyllrb.com/
+[Hydejack]: https://hydejack.com/

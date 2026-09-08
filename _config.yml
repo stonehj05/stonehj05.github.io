@@ -41,35 +41,29 @@ logo:                  /assets/img/blog/photo.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Haojun Shi
+  email:               stonehj05@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /about/
+    url:               /
 
 # Add links to the footer.
-# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+legal:                 []
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024. All rights reserved.
+copyright:             © 2026 Haojun Shi. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
 
-# Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /:num/
+# Pagination configuration (used by the `blog` layout).
+# Re-enable these (and add a page with `layout: blog`) if you start a blog.
+# paginate:              10
+# paginate_path:         /:num/
 
 
 # Theme
@@ -308,6 +302,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - functions
+  - README.md
 include:
   - _routes.json
   - .well-known
