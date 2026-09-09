@@ -4,15 +4,14 @@ title: About
 image: /assets/img/blog/photo.jpg
 hide_image: true
 description: >
-  Haojun Shi is a junior at Johns Hopkins University double majoring in
-  Computer Science and Applied Mathematics & Statistics, working on
-  natural language processing and machine theory of mind.
+  Haojun Shi is a first-year Computer Science PhD student at Yale, advised by
+  Arman Cohan, working on natural language processing and machine theory of mind.
 hide_description: true
 ---
 
 <div id="about"></div>
 
-Hi! I’m **Haojun Shi**. I am currently a first year PhD student at Yale majoring in Computer Science, advised by [Prof. Arman Cohan](https://armancohan.com/). Prior to joining Yale, I was an undergraduate at Johns Hopkins advised by [Prof. Tianmin Shu](https://www.tshu.io/) and [Prof. Jason Eisner](https://www.cs.jhu.edu/~jason/)
+Hi! I’m **Haojun Shi**. I am currently a first year PhD student at Yale majoring in Computer Science, advised by [Prof. Arman Cohan](https://armancohan.com/). Prior to joining Yale, I was an undergraduate at Johns Hopkins advised by [Prof. Tianmin Shu](https://www.tshu.io/) and [Prof. Jason Eisner](https://www.cs.jhu.edu/~jason/).
 
 ---
 

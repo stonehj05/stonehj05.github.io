@@ -7,9 +7,9 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout.
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Junior at Johns Hopkins University, double majoring in Computer Science
-    and Applied Mathematics & Statistics. My research is in natural language
-    processing and machine theory of mind, advised by Tianmin Shu and Jason Eisner.
+    First-year Computer Science PhD student at Yale, advised by Arman Cohan.
+    My research is in natural language processing and machine theory of mind.
+    Previously an undergraduate at Johns Hopkins, advised by Tianmin Shu and Jason Eisner.
 
   # This photo will be used in the about section.
   picture:
