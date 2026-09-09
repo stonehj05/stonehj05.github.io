@@ -12,7 +12,7 @@ hide_description: true
 
 <div id="about"></div>
 
-Hi! I’m **Haojun Shi**. I am currently a junior at Johns Hopkins University double majoring in Computer Science and Applied Mathematics & Statistics. I am honored to be advised by Professor Tianmin Shu and Jason Eisner.
+Hi! I’m **Haojun Shi**. I am currently a first year PhD student at Yale majoring in Computer Science, advised by [Prof. Arman Cohan](https://armancohan.com/). Prior to joining Yale, I was an undergraduate at Johns Hopkins advised by [Prof. Tianmin Shu](https://www.tshu.io/) and [Prof. Jason Eisner](https://www.cs.jhu.edu/~jason/)
 
 ---
 
